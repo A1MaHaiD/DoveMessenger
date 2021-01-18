@@ -1,0 +1,33 @@
+andoid/example/myfirstprojectfirebase/AwesomeMessageAdapter.java
+ andoid.example.myfirstprojectfirebase.AwesomeMessageAdapter
+ andoid.example.myfirstprojectfirebase.AwesomeMessageAdapter$ViewHolder
+andoid/example/myfirstprojectfirebase/AwesomeMessage.java
+ andoid.example.myfirstprojectfirebase.AwesomeMessage
+andoid/example/myfirstprojectfirebase/BuildConfig.java
+ andoid.example.myfirstprojectfirebase.BuildConfig
+andoid/example/myfirstprojectfirebase/AuthenticationActivity.java
+ andoid.example.myfirstprojectfirebase.AuthenticationActivity
+ andoid.example.myfirstprojectfirebase.AuthenticationActivity$1
+ andoid.example.myfirstprojectfirebase.AuthenticationActivity$2
+ andoid.example.myfirstprojectfirebase.AuthenticationActivity$3
+andoid/example/myfirstprojectfirebase/User.java
+ andoid.example.myfirstprojectfirebase.User
+andoid/example/myfirstprojectfirebase/ChatActivity.java
+ andoid.example.myfirstprojectfirebase.ChatActivity
+ andoid.example.myfirstprojectfirebase.ChatActivity$1
+ andoid.example.myfirstprojectfirebase.ChatActivity$2
+ andoid.example.myfirstprojectfirebase.ChatActivity$3
+ andoid.example.myfirstprojectfirebase.ChatActivity$4
+ andoid.example.myfirstprojectfirebase.ChatActivity$5
+ andoid.example.myfirstprojectfirebase.ChatActivity$6
+ andoid.example.myfirstprojectfirebase.ChatActivity$7
+andoid/example/myfirstprojectfirebase/UserAdapter.java
+ andoid.example.myfirstprojectfirebase.UserAdapter
+ andoid.example.myfirstprojectfirebase.UserAdapter$OnUserClickListener
+ andoid.example.myfirstprojectfirebase.UserAdapter$UserViewHolder
+ andoid.example.myfirstprojectfirebase.UserAdapter$UserViewHolder$1
+ andoid.example.myfirstprojectfirebase.UserAdapter$UserViewHolder$1$1
+andoid/example/myfirstprojectfirebase/UserListActivity.java
+ andoid.example.myfirstprojectfirebase.UserListActivity
+ andoid.example.myfirstprojectfirebase.UserListActivity$1
+ andoid.example.myfirstprojectfirebase.UserListActivity$2

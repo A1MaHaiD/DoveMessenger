@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_recipient_message_item.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\layout\\recipient_message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_message_item.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\layout\\user_message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_insert_photo_24.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\drawable\\ic_baseline_insert_photo_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chat_babble_recipient.9.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\drawable-v24\\chat_babble_recipient.9.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_image.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\drawable\\user_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_item.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_item.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_c.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\drawable-v24\\logo_c.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_authentication.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_chat_babble_user.9.png.flat",
+        "source": "C:\\Users\\super\\AndroidStudioProjects\\MyFirstProjectFirebase\\app\\src\\main\\res\\drawable-v24\\chat_babble_user.9.png"
+    }
+]
