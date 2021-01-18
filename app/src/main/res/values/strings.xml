@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dove</string>
+    <string name="send">send</string>
+    <string name="todo">TODO</string>
+    <string name="user_name">User Name</string>
+
+</resources>
